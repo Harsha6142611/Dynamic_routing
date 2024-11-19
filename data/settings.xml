@@ -1,0 +1,20 @@
+<viewsettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/viewsettings_file.xsd">
+    <viewport x="0" y="0" zoom="100"/>
+    <scheme name="real world">
+        <edges hideConnectors="false" laneWidth="2" showLinkDecals="true" showRails="true">
+            <colorScheme name="selection" value="0.7,0.7,0.7"/>
+            <selections friendlyPos="true">
+                <selection color="255,0,0" id="269696412#0" width="4"/>
+                <selection color="255,0,0" id="269696412#1" width="4"/>
+                <selection color="255,0,0" id="269696412#2" width="4"/>
+                <selection color="255,0,0" id="269696412#3" width="4"/>
+                <selection color="255,0,0" id="269696412#4" width="4"/>
+                <selection color="255,0,0" id="269696412#5" width="4"/>
+                <selection color="255,0,0" id="269696412#6" width="4"/>
+                <selection color="255,0,0" id="269696412#7" width="4"/>
+                <selection color="255,0,0" id="269696412#8" width="4"/>
+                <selection color="255,0,0" id="-269696412#8" width="4"/>
+            </selections>
+        </edges>
+    </scheme>
+</viewsettings>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <input>
+    <net-file value="../data/test.net.xml"/>
+    <route-files value="../data/route.rou.xml"/>
+  </input>
+  <time>
+    <begin value="0"/>
+    <end value="36000"/>
+  </time>
+</configuration> 
+
+
+
